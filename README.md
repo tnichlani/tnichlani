@@ -30,9 +30,13 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
 
-- :seedling: Diving deeper into Machine Learning & AI.
+- :zap: In my free time, I read about new tech and rockets :rocket:
 
-- :zap: In my free time, I read about new tech.
+- :purple_heart: I am design obsessed.
+
+- :seedling: I enjoy bringing web/mobile concepts to market.
+
+- :business_suit_levitating: Entrepreneurial mindset
 
 ---
 
