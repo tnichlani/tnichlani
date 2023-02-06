@@ -70,5 +70,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-(http://github-readme-streak-stats.herokuapp.com?user=your-tnichlani&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tnichlani&theme=android-dark&border_radius=6)](https://git.io/streak-stats)
 
