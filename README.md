@@ -32,7 +32,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I read about new tech and rockets :rocket:
 
-- :purple_heart: I am design obsessed
+<!-- - :purple_heart: I am design obsessed -->
 
 - :seedling: I enjoy bringing concepts to market: "I am not talented, I am obsessed" - Conor McGregor
 
