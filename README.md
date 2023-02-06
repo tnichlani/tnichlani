@@ -36,7 +36,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: I enjoy bringing concepts to market: "I am not talented, I am obsessed" - Conor McGregor
 
-- :business_suit_levitating: Entrepreneurial mindset
+<!-- - :business_suit_levitating: Entrepreneurial mindset -->
 
 ---
 
