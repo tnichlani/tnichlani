@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
 
 - :seedling: Diving deeper into Machine Learning & AI.
