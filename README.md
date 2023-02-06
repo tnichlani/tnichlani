@@ -28,13 +28,13 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications
 
 - :zap: In my free time, I read about new tech and rockets :rocket:
 
-- :purple_heart: I am design obsessed.
+- :purple_heart: I am design obsessed
 
-- :seedling: I enjoy bringing web/mobile concepts to market.
+- :seedling: I enjoy bringing concepts to market: I am not talented, I am obsessed. 
 
 - :business_suit_levitating: Entrepreneurial mindset
 
