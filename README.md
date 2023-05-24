@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada <img src="https://media.giphy.com/media/Jx9n9pSg9JUJi/giphy.gif" width="30">
+I am a Full-stack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada <img src="https://media.giphy.com/media/Jx9n9pSg9JUJi/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications
 
 - :zap: In my free time, I read about new tech and rockets :rocket:
